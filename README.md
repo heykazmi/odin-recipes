@@ -10,8 +10,8 @@ A Simple website that i made during the foundations course on TOP (The Odin Proj
 There are currently 3 total pages displaying different recipe inspired from some of my favourite Anime Shows. 
 
 ## Screenshots
-![](https://github.com/heykazmi/odin-recipes/blob/main/files/images/index-snapshot.png)
 ![](https://github.com/heykazmi/odin-recipes/blob/main/files/images/omurice-pg-snapshot.png)
+![](https://github.com/heykazmi/odin-recipes/blob/main/files/images/index-snapshot.png)
 
 ## Useful Links
 - [Cooking Oishi Live Preview!](https://heykazmi.github.io/odin-recipes)
