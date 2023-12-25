@@ -1,4 +1,4 @@
-# Odin Recipies Project [Cooking Oishi (美味しい)]
+# Odin Recipies Project: Cooking Oishi (美味しい)
 
 ## About the Project 
 A Simple website that i made during the foundations course on TOP (The Odin Project).
